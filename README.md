@@ -22,5 +22,4 @@ The existing network uses a single consumer router for guest Wi-Fi, staff device
 - QoS
 - Wireless Networking
 
-## Project Status
-Academic network design proposal. The proposed infrastructure has not been deployed in a real-world environmen
+
